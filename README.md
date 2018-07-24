@@ -1,1 +1,6 @@
 # exodus
+
+
+## Steps
+
+==> truffle init
