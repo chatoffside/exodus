@@ -1,5 +1,5 @@
 # exodus
-
+Exodus is the frontend for managing smart contracts
 
 ## Steps
 
